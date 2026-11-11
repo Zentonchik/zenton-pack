@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CSC/Data/variables.data"
-hash = "d621be6f92f084cb351832ad87c76244ec0fabb68ba782b4962adae71eecff50"
+hash = "1c29f24830c6a27e81a361d6b4425274a836c141c08b7930f612103562996553"
 
 [[files]]
 file = "config/CSC/config.toml"
@@ -1810,11 +1810,11 @@ hash = "471eb8f9151dab2b97dedb4c22747fc2d1b778f93efc9c8a63991c228e7a5af4"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "8f4b90eb667f2a735a40154671bd78068fedc6bd62df167fe40b1dbc4164de18"
+hash = "c78c881cb9abb6d4b71db9c1365bb77b48600a973d818ec3387f3d85e79eccff"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "40f1a9f0653cbed778ecb98143125028d9de87dbd9d57e0211a842ef045b9218"
+hash = "d63a6b4f8f667d36597d2fca382770e57c477bb9d90b3531c52fc08a037ae788"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
@@ -3499,7 +3499,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/Zenton-RU-own.zip"
-hash = "e08ddd17836182f6857e2976391cc798bdc75dc3b769eb82b9c55a3a5ca5a721"
+hash = "f46a0e946efb1a75031f54c1b6b1df7cc7707c2fa9ce91f8718270cf35bdfa7e"
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
