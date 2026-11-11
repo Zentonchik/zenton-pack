@@ -1,0 +1,12 @@
+name = "Create: Ender Link"
+filename = "createenderlink-1.4.0+mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DjbTLY77/versions/dhI8et1f/createenderlink-1.4.0%2Bmc1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "74c20e2ead46dbb589d8e08918b6d0a8d16ab0d88a0a8a1fdfc9b60d8804f9de6d062262fa4b2c84ec3cb936562f363d930c4b86551ee68598ecdd7514fd8626"
+
+[update.curseforge]
+file-id = 6682469
+project-id = 1233526

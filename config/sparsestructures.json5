@@ -1,0 +1,140 @@
+// ### THE MOD REQUIRES A RESTART OF THE GAME TO APPLY CHANGES ###
+{
+  // this is the main spread factor (default is 2)
+  //
+  // tips: a spread factor can be a decimal number (such as 1.5)
+  //       a spread factor of 1 means all structure's placements are not modified (useful if you want to use only custom spread factors)
+  //       a spread factor above 1 means all structures are rarer
+  //       a spread factor below 1 means all structures are more common
+  //       a spread factor of 0 disables all structures entirely
+  "spreadFactor": 2,
+
+  // Some structure mods/datapacks do not specify a custom salt or use the same salt for all their structures, which might cause structure overlap.
+  // Enabling this is supposed to reduce this phenomenon, as all structure sets will have their own salt, hashed from their id.
+  // If unsure, leave this enabled.
+  "idBasedSalt": true,
+
+  // this is a list of custom spread factors
+  "customSpreadFactors": [
+    // example of the mansion being doubled in rarity (the mod's default)
+    {
+      "structure": "minecraft:mansion",
+      "factor": 2
+    },
+    // add the structures you want to modify in the format:
+    // (don't forget to remove "//", and use dots for decimal numbers)
+    //
+    // {
+    //     "structure": "namespace:structure_name",
+    //     "factor": number
+    // },
+    //
+    // where "structure" is a structure_set or the name of a structure
+    // /!\ if you put the name of a structure, all structures in its set will be modified
+    // (example: "minecraft:village_plains" will modify all structures in the "villages" set)
+    // see https://minecraft.wiki/w/Tutorials/Custom_structures#Structure_Set for more info
+    //
+    // tip: you can dump all structure sets in a file by running the custom command /dumpstructuresets
+    // tip: the same spread factors rules apply here (set to 0 to disable said structure)
+
+    // --- Dungeons: rare and far apart (2026-11-11). Chunks spacing/separation: mod base -> result ---
+    // When Dungeons Arise: major 60/50 -> 150/125 (~2400 blocks), minor 35/25 -> 105/75
+    { "structure": "dungeons_arise:major_structures", "factor": 2.5 },
+    { "structure": "dungeons_arise:minor_structures", "factor": 3 },
+    // Seven Seas (ships): 68/60 -> 170/150
+    { "structure": "dungeons_arise_seven_seas:minor_structures", "factor": 2.5 },
+    // IDAS: common 21/12 -> 84/48, small 26/20 -> 104/80, rare 45/20 -> 135/60
+    { "structure": "idas:idas_common", "factor": 4 },
+    { "structure": "idas:idas_small", "factor": 4 },
+    { "structure": "idas:idas_rare", "factor": 3 },
+    // IDAS: ocean 35/29 -> 105/87, underground 25/15 -> 100/60, underground rare 60/40 -> 150/100
+    { "structure": "idas:idas_ocean", "factor": 3 },
+    { "structure": "idas:idas_underground", "factor": 4 },
+    { "structure": "idas:idas_underground_rare", "factor": 2.5 },
+    // IDAS Nether: 35/20 -> 105/60, small 30/25 -> 90/75
+    { "structure": "idas:idas_nether", "factor": 3 },
+    { "structure": "idas:idas_small_nether", "factor": 3 },
+
+    // --- Other structure mods: rarer, less clutter (2026-11-11). Terrain features, villages, YUNG vanilla replacements, Alex's Caves keep global x2 ---
+    // Ice and Fire: small caves/villages x4, dragon roosts/caves x3 (gorgon/graveyard/mausoleum replaced by IDAS)
+    { "structure": "iceandfire:cyclops_cave", "factor": 4 },
+    { "structure": "iceandfire:hydra_cave", "factor": 4 },
+    { "structure": "iceandfire:pixie_village", "factor": 4 },
+    { "structure": "iceandfire:siren_island", "factor": 4 },
+    { "structure": "iceandfire:dragon_roost", "factor": 3 },
+    { "structure": "iceandfire:dragon_cave", "factor": 3 },
+    // L_Ender's Cataclysm: small sets x3/x2.5; boss arenas (80-112) keep x2
+    { "structure": "cataclysm:abandoned_structures", "factor": 3 },
+    { "structure": "cataclysm:desert_structures", "factor": 3 },
+    { "structure": "cataclysm:amethyst_nest", "factor": 3 },
+    { "structure": "cataclysm:ruined_citadel", "factor": 2.5 },
+    { "structure": "cataclysm:small_integrated_cataclysm", "factor": 2.5 },
+    // Let The Adventure Begin (create_ltab): small houses x4, big x3/x2.5
+    { "structure": "create_ltab:birch_structures", "factor": 4 },
+    { "structure": "create_ltab:cave_ruins", "factor": 4 },
+    { "structure": "create_ltab:cherry_house", "factor": 4 },
+    { "structure": "create_ltab:dark_forest_house", "factor": 4 },
+    { "structure": "create_ltab:desert_structures", "factor": 4 },
+    { "structure": "create_ltab:jungle_structures", "factor": 4 },
+    { "structure": "create_ltab:mangrove_structures", "factor": 4 },
+    { "structure": "create_ltab:nether_roof_house", "factor": 4 },
+    { "structure": "create_ltab:ruins", "factor": 4 },
+    { "structure": "create_ltab:spruce_structures", "factor": 4 },
+    { "structure": "create_ltab:plains_structures", "factor": 3 },
+    { "structure": "create_ltab:pillage", "factor": 2.5 },
+    { "structure": "create_ltab:quarry", "factor": 2.5 },
+    { "structure": "create_ltab:thecastle", "factor": 2.5 },
+    { "structure": "create_ltab:water_pre", "factor": 2.5 },
+    { "structure": "create_ltab:snow_structures", "factor": 2.5 },
+    // Create: Structures Arise: base already 90-200, only the denser ones raised
+    { "structure": "create_structures_arise:deadlordshouse", "factor": 3 },
+    { "structure": "create_structures_arise:obsidiantemple", "factor": 2.5 },
+    // Illager Invasion x3, sorcerer hut x4
+    { "structure": "illagerinvasion:firecaller_hut", "factor": 3 },
+    { "structure": "illagerinvasion:illager_fort", "factor": 3 },
+    { "structure": "illagerinvasion:illusioner_tower", "factor": 3 },
+    { "structure": "illagerinvasion:labyrinth", "factor": 3 },
+    { "structure": "illagerinvasion:sorcerer_hut", "factor": 4 },
+    // Iron's Spells: small x3, big (72-100) keep x2
+    { "structure": "irons_spellbooks:ancient_battleground", "factor": 3 },
+    { "structure": "irons_spellbooks:mangrove_hut", "factor": 3 },
+    { "structure": "irons_spellbooks:mountain_tower", "factor": 2.5 },
+    // Terralith structures (villages untouched)
+    { "structure": "terralith:mage", "factor": 3 },
+    { "structure": "terralith:rare_dungeon", "factor": 3 },
+    { "structure": "terralith:regular", "factor": 3 },
+    { "structure": "terralith:rubble", "factor": 3 },
+    { "structure": "terralith:underground", "factor": 4 },
+    { "structure": "terralith:underground_dungeon", "factor": 4 },
+    // Travel Optics x3 (void cathedral keeps x2)
+    { "structure": "traveloptics:ancient_laboratory", "factor": 3 },
+    { "structure": "traveloptics:aqua_mage_tower", "factor": 3 },
+    { "structure": "traveloptics:echo_shrine", "factor": 3 },
+    // Apotheosis towers, Better Archeology, Incendium (Nether)
+    { "structure": "apotheosis:tower_leaf", "factor": 4 },
+    { "structure": "apotheosis:tower_main", "factor": 4 },
+    { "structure": "apotheosis:tower_sand", "factor": 4 },
+    { "structure": "apotheosis:tower_spruce", "factor": 4 },
+    { "structure": "betterarcheology:archeology_sites", "factor": 3 },
+    { "structure": "betterarcheology:fossil_sites", "factor": 3 },
+    { "structure": "betterarcheology:underwater_ruins", "factor": 3 },
+    { "structure": "incendium:greater_structures", "factor": 3 },
+    { "structure": "incendium:lesser_structures", "factor": 3 },
+    // Small single-structure mods
+    { "structure": "alshanex_familiars:graveyard", "factor": 4 },
+    { "structure": "atmospheric:arid_gardens", "factor": 3 },
+    { "structure": "atmospheric:kousa_sanctums", "factor": 3 },
+    { "structure": "beautify:botanist_house_desert", "factor": 4 },
+    { "structure": "beautify:botanist_house_plains", "factor": 4 },
+    { "structure": "beautify:botanist_house_savanna", "factor": 4 },
+    { "structure": "beautify:botanist_house_snowy", "factor": 4 },
+    { "structure": "beautify:botanist_house_taiga", "factor": 4 },
+    { "structure": "ecologics:desert_ruins", "factor": 3 },
+    { "structure": "endersdelight:end_house", "factor": 3 },
+    { "structure": "hexalia:herbalist_hut", "factor": 2.5 },
+    { "structure": "hopo:piglin_ruin", "factor": 2.5 },
+    { "structure": "deeperdarker:ancient_temple", "factor": 2.5 },
+    { "structure": "malum:weeping_well", "factor": 2.5 },
+    { "structure": "biomeswevegone:prairie_houses", "factor": 3 }
+  ]
+}

@@ -1,0 +1,12 @@
+name = "Create Optical"
+filename = "create_optical-0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kcZ7kwxx/versions/P1wv4ixj/create_optical-0.4.2.jar"
+hash-format = "sha512"
+hash = "ae5a5d60d8dbf7b24d2e9c2395722e4a608f7d9fbe65fcc7cd1596a80fc8003cf0ea9c556b12bcc8650d1a330186ce8ac5346cca987d6c6fcc101672f1005216"
+
+[update.curseforge]
+file-id = 8035900
+project-id = 1007714

@@ -1,0 +1,12 @@
+name = "Stay True"
+filename = "Stay_True_1.20.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4624/707/Stay_True_1.20.zip"
+hash-format = "sha1"
+hash = "e62cef3d46234f8e2b04d5d01c870a6f41f9ae79"
+
+[update.curseforge]
+file-id = 4624707
+project-id = 353554

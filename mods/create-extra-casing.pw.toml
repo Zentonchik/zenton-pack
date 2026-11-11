@@ -1,0 +1,12 @@
+name = "Create: Extra Casing"
+filename = "create_extra_casing-4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yEGVcr59/versions/ocOFWvLv/create_extra_casing-4.0.4.jar"
+hash-format = "sha512"
+hash = "200ab45e042d5ed8883bb9179860565bdd001f791d5e13db4beba53d1da6d7fa6c7a1638625f65c9d60b8d9d9e5c576e6e3ce2fb5ac30afb8c0cf1c6ed48abd4"
+
+[update.curseforge]
+file-id = 6944497
+project-id = 1192187

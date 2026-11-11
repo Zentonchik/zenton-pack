@@ -1,0 +1,12 @@
+name = "EpheroLib"
+filename = "EpheroLib-1.20.1-FORGE-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4889/101/EpheroLib-1.20.1-FORGE-1.2.0.jar"
+hash-format = "sha1"
+hash = "1eca21b906d38321bf60919dd3b12d160e5e6935"
+
+[update.curseforge]
+file-id = 4889101
+project-id = 885449

@@ -1,0 +1,12 @@
+name = "Create: Netherless ((Neo)Forge)"
+filename = "create_netherless-2.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YVagaSv/versions/htwdYiKv/create_netherless-2.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "dfd047100b44916bb56ed57b7ccf0ac9db47b2d6d73ebbe2cc629c4c807a45d7982d531e61fa57f857b3c7f719827cdb615d7a132e4bcc85916a1f495eae199e"
+
+[update.curseforge]
+file-id = 7956971
+project-id = 881506

@@ -1,0 +1,12 @@
+name = "Create: Prismatic Shine"
+filename = "createprism-1.20-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9071/759/createprism-1.20-1.1.2.jar"
+hash-format = "sha1"
+hash = "8c9c993eb6695b67cd6059cd8fbe009dc61d10db"
+
+[update.curseforge]
+file-id = 9071759
+project-id = 1355767

@@ -1,0 +1,12 @@
+name = "Concurrent Chunk Management Engine - Forge"
+filename = "c2meforge-0.2.0-forge.9.9.6-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9387/498/c2meforge-0.2.0-forge.9.9.6-all.jar"
+hash-format = "sha1"
+hash = "29ad8a207749081458221e7d97b1201c2181d62d"
+
+[update.curseforge]
+file-id = 9387498
+project-id = 1610389

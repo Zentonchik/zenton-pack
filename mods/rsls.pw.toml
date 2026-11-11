@@ -1,0 +1,12 @@
+name = "Raise Sound Limit Simplified"
+filename = "rsls-forge-mc1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SKW62Pht/versions/vDwomhjs/rsls-forge-mc1.20.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "596962759fe86c3b1b11053e53ab6edf0e9d9ae15010cee3961947a61a04f92e5b2a75d6441dd8020c82e136988cff39353b391c3614bf898da9ab224caba944"
+
+[update.curseforge]
+file-id = 8417403
+project-id = 646146

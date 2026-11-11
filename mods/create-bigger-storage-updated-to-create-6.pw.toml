@@ -1,0 +1,12 @@
+name = "Create: Bigger Storage Updated to Create 6"
+filename = "createbiggerstoragetocreate6-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s6cUjOyg/versions/VqbTNp0V/createbiggerstoragetocreate6-1.1.jar"
+hash-format = "sha512"
+hash = "39ef142f16c1126004e00cc93b7576944ef72fe7a5369b87f6e263c779dd4140ec3e2877600a0828e4a1d01854732d4b75b48b1baf77259c4d902c4bc7e0b199"
+
+[update.curseforge]
+file-id = 7200997
+project-id = 1277726

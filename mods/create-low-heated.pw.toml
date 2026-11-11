@@ -1,0 +1,12 @@
+name = "Create Low-Heated"
+filename = "createlowheated-forge-1.20.1-6.0.8-7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hd0gHVlC/versions/c50Vtvhd/createlowheated-forge-1.20.1-6.0.8-7.jar"
+hash-format = "sha512"
+hash = "c51aeaabf045733d541f30fc201611f0b06a3b7e8d0e4af0738e067ec2e10d5a1802019c1e7e7bd734c3a7bf861f3fed69e98fddbf5636e5e39fc228cc3482b7"
+
+[update.curseforge]
+file-id = 8951270
+project-id = 873945

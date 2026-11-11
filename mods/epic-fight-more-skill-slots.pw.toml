@@ -1,0 +1,12 @@
+name = "Epic Fight: More Skill Slots"
+filename = "epicfight_moreskillslots-0.0.1-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xcev3IP6/versions/JjW5uheR/epicfight_moreskillslots-0.0.1-mc1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "bea5430932a9320126bcb232f57d7902097d5f5f664dc6464939950895ff452994340d93eb5832542040680d5ce49aabab2100e5ccdf85cb338b87232cb79e56"
+
+[update.curseforge]
+file-id = 7114756
+project-id = 1366428

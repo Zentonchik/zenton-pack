@@ -1,0 +1,12 @@
+name = "Create Stuff & Netherite Additions"
+filename = "create_sna-1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/777GhN41/versions/Bqjl7iEA/create_sna-1.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "a4576a79265c29d43e20f0c009e725fb2e70c69237b5af9cccf4e7297fe8d04130ea24242c4abf252c1a403f8b5e0d3307fc8d4655a1cfba8f6e5e850036887b"
+
+[update.curseforge]
+file-id = 7127308
+project-id = 1026647

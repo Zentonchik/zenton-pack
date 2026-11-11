@@ -1,0 +1,12 @@
+name = "Oh The Trees You'll Grow"
+filename = "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8NOG5OR/versions/rs8XaUUr/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.4.jar"
+hash-format = "sha512"
+hash = "dd38a4af1a591cf2fcda2c3eedbb2f1aaae924edf443f56833595455dbe91528539ad73b5cedba398b6de095c75ec94c262d260eaef8be79a826c742a72e2ba1"
+
+[update.curseforge]
+file-id = 9467818
+project-id = 962544

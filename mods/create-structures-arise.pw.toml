@@ -1,0 +1,12 @@
+name = "Create: Structures Arise"
+filename = "Create-Structures-Arise-1.20.1-Forge-176.49.49.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9enMEvoc/versions/syEXxY0h/Create-Structures-Arise-1.20.1-Forge-176.49.49.jar"
+hash-format = "sha512"
+hash = "bd40bce907fabed2b3ed1246cbf038ecb23b721a0527b6db7e6ddbb21ab632d58fa87b5d0014a4c96863c8f30d2147ed1399cfdb6c906e08208997077e915715"
+
+[update.curseforge]
+file-id = 8837988
+project-id = 1010066

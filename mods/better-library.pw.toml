@@ -1,0 +1,12 @@
+name = "Better Library"
+filename = "better_lib-forge-1.20.1-1.0.113.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2x0ULgTj/versions/Ks4H3SnD/better_lib-forge-1.20.1-1.0.113.jar"
+hash-format = "sha512"
+hash = "f6a90247b876b8cddc7bcb37183db5922b41bc6e114e806a3f0c742788e2709d9794dfec37b9c19ee9f4710c6401b6882d75009062d7866ded21c46ff2376ad8"
+
+[update.curseforge]
+file-id = 9319295
+project-id = 1150683

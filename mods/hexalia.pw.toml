@@ -1,0 +1,12 @@
+name = "Hexalia"
+filename = "hexalia-1.3.8.2-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bkz5C0dQ/versions/W6UySSJ7/hexalia-1.3.8.2-1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "119d7925888d33fcef9d92eced879ab3288acc4e5e8d50a1c678db221d660cd59bcc03fee0295588039d0c9a6e44ea9fb7458490d6e04ddb8dd7af1c41ab3a7d"
+
+[update.curseforge]
+file-id = 9355735
+project-id = 962878

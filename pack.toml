@@ -1,0 +1,13 @@
+name = "Старая сборка (Zenton)"
+author = "Zenton"
+version = "2026.11.12"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "beafe5949843ca8ba88753a0e2ab3612694eb2c2d492dfa87ca3dbdeb4774330"
+
+[versions]
+minecraft = "1.20.1"
+forge = "47.4.29"

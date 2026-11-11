@@ -1,0 +1,12 @@
+name = "Create: Mechanical Companion"
+filename = "createmechanicalcompanion-1.8-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nJ9B5oz1/versions/GenUWCdX/createmechanicalcompanion-1.8-1.20.1.jar"
+hash-format = "sha512"
+hash = "5d8afcc97de4eca50ab5552fe6f7d19ed01d58de7b188d4d20275fff234eb480f1fd58ce896b0c1cf4c7641dcb9e2c1f493f1c37e3dc6d0f467823ef71a08d34"
+
+[update.curseforge]
+file-id = 7145417
+project-id = 1264989

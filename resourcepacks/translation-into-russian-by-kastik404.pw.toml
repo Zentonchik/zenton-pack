@@ -1,0 +1,12 @@
+name = "Translation into Russian by Kastik404"
+filename = "Translation into Russian by Kastik404 V6.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5943/149/Translation%20into%20Russian%20by%20Kastik404%20V6.zip"
+hash-format = "sha1"
+hash = "fb44e145818d6167529ca754a447b98bcf47c79f"
+
+[update.curseforge]
+file-id = 5943149
+project-id = 1089989

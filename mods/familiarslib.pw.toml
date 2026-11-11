@@ -1,0 +1,12 @@
+name = "FamiliarsLib"
+filename = "familiarslib-1.20.1-1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9052/376/familiarslib-1.20.1-1.9.jar"
+hash-format = "sha1"
+hash = "5c31870aed9bdaecafd332c66883fd17342d81c0"
+
+[update.curseforge]
+file-id = 9052376
+project-id = 1316458

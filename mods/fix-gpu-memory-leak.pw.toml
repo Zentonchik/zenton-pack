@@ -1,0 +1,12 @@
+name = "fix GPU memory leak"
+filename = "gpumemleakfix-1.20.1-1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4884/976/gpumemleakfix-1.20.1-1.8.jar"
+hash-format = "sha1"
+hash = "54301c2db5467e0f9f5c504887436f358335331f"
+
+[update.curseforge]
+file-id = 4884976
+project-id = 882495

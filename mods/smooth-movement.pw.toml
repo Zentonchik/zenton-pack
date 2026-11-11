@@ -1,0 +1,12 @@
+name = "Smooth Movement"
+filename = "smoothmovement-1.20.1-3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9406/665/smoothmovement-1.20.1-3.2.jar"
+hash-format = "sha1"
+hash = "89e5991b3db10153bede8c38c7584700656b7c4a"
+
+[update.curseforge]
+file-id = 9406665
+project-id = 852498

@@ -1,0 +1,12 @@
+name = "Create: Schematic Checker"
+filename = "CreateSchematicChecker-2.27.47-6.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ULzrAD1U/versions/OTOcky5Q/CreateSchematicChecker-2.27.47-6.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "b5d14fe62f14a010089bf466831b0e9cd6b82e994a94da56356fbc542e31c1c0ad0e11a2ddba384bde4085f1dfd6cbc96c458561aca750485b398e703d9b3240"
+
+[update.curseforge]
+file-id = 8988754
+project-id = 1357430

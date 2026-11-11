@@ -1,0 +1,12 @@
+name = "Create : New Furnitures"
+filename = "create_furnitures-1.1.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7740/486/create_furnitures-1.1.3-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "8817ff3b8abf40136266ffa94e1bdd085a1e1430"
+
+[update.curseforge]
+file-id = 7740486
+project-id = 1162995

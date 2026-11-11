@@ -1,0 +1,12 @@
+name = "Create: Fuel & Water Information"
+filename = "cfwinfo-1.9.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/csA0cpEX/versions/Rvh0zKoV/cfwinfo-1.9.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "bde386ca18b53c9329bc105e61ced3029b8b819c79ab6b74300c85112339fea8418b0dbfaed598e8f0baf4a30400c866ff6c8acae45005b6350751c60c24146d"
+
+[update.curseforge]
+file-id = 8195680
+project-id = 1023209

@@ -1,0 +1,12 @@
+name = "Inventory Particles"
+filename = "InventoryParticles-3.2.0+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/31tfSz4E/InventoryParticles-3.2.0%2B1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "c6aa6c6fa7883048d9c15fa18bd801cc73eacf4bdf7e872c3cc4bbfdc75e5d4594f4722d753766085217340d3b7d158a56993a54abc5f29afafee587094143a8"
+
+[update.curseforge]
+file-id = 8939252
+project-id = 1339689

@@ -1,0 +1,12 @@
+name = "Epic Fight"
+filename = "epic-fight-20.15.2-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/HzEXjhNn/epic-fight-20.15.2-mc1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "1dfdf1e61a6fa9f2d8f80ed256360f1eb4684d14ac0b82189b3292d9c6d141e0ad578579f5850152a43cb93a6262419d43bf84daf31e9aeff8190e75ffa0c36f"
+
+[update.curseforge]
+file-id = 9407167
+project-id = 405076

@@ -1,0 +1,12 @@
+name = "Train Network Optimisations"
+filename = "trainnetworkoptimisations-1.0.1+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oeCO1sXl/versions/cCpepZtZ/trainnetworkoptimisations-1.0.1%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "0aac8c4793535802172c192b3a0040724b430ed884fb237a826f6e3ce2a9b5e21634f7f46a827a77d969002ae1ee9bb07cd85c87393f375dad019601008ad9ae"
+
+[update.curseforge]
+file-id = 7958445
+project-id = 1462157

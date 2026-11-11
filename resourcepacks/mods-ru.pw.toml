@@ -1,0 +1,12 @@
+name = "Русский перевод модов (Mods Russian Translation)"
+filename = "Rus-For-Mods-1.20-B6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GsoCvyCO/versions/vCr4Macu/Rus-For-Mods-1.20-B6.zip"
+hash-format = "sha512"
+hash = "7736cc4320c498d2a056c12f7ea11b40adc6b9fb7c888f624601b5b5c444545402f91551d75072f97e22f39d25788980755e9d773f3deb86360e4736124c271c"
+
+[update.curseforge]
+file-id = 5717488
+project-id = 374772

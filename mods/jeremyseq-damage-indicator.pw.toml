@@ -1,0 +1,12 @@
+name = "JeremySeq's Damage Indicators"
+filename = "jdamageindicators-forge-1.20.1-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SGJfwZzw/versions/UL0okkRK/jdamageindicators-forge-1.20.1-2.3.0.jar"
+hash-format = "sha512"
+hash = "276c29e835efa32db5c0dc0014e1bc2a5dc9fba5e019228ea0bdad0c83186aaa29784a2b7d86fb9bd6bf4d54e8c5e18e46d69c00ab91900308ad30069df65e82"
+
+[update.curseforge]
+file-id = 9120083
+project-id = 881096

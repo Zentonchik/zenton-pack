@@ -1,0 +1,12 @@
+name = "Create:LazyTick"
+filename = "CreateLazyTick-2.7.33-6.0.x-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9357/684/CreateLazyTick-2.7.33-6.0.x-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "b408866b402e095d375ef18ac96c4813ae5b95f4"
+
+[update.curseforge]
+file-id = 9357684
+project-id = 1409401

@@ -1,0 +1,12 @@
+name = "Balm"
+filename = "balm-forge-1.20.1-7.3.44.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8969/708/balm-forge-1.20.1-7.3.44.jar"
+hash-format = "sha1"
+hash = "b3f8a6a5823d3b4f2dce19c8aea9373e24bcb443"
+
+[update.curseforge]
+file-id = 8969708
+project-id = 531761

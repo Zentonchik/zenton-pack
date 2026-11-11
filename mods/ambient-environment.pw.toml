@@ -1,0 +1,12 @@
+name = "Ambient Environment"
+filename = "AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4598/390/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
+hash-format = "sha1"
+hash = "03c839b24e5a19f8225400be354f8ffd9572e47f"
+
+[update.curseforge]
+file-id = 4598390
+project-id = 320163

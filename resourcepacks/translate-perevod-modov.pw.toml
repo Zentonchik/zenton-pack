@@ -1,0 +1,12 @@
+name = "Translate (translating mods into Russian)"
+filename = "Mod-Translate-10.0.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wzkoykcx/versions/qjRe1Eds/Mod-Translate-10.0.2.zip"
+hash-format = "sha512"
+hash = "bb1a5f3540ac7fa1fd91af1510d81ba807aa7a5c8ec78aa2ce02ff8775aade8904a6cbeaff601f62cd0424e31039018001fd87c9b3b0f002e1474839f8013ae9"
+
+[update.curseforge]
+file-id = 8646115
+project-id = 1225969

@@ -1,0 +1,416 @@
+{
+  "name": "Zenton - Huge Biomes",
+  "description": "Huge Biomes без Custom Biome Features (иначе Feature order cycle с BWG/Atmospheric)",
+  "version": 2,
+  "landforms": {
+    "drumlins": {
+      "enabled": false,
+      "density": 0.5,
+      "height": 8
+    },
+    "barrierIslands": {
+      "enabled": false,
+      "frequency": 0.4
+    },
+    "karst": {
+      "enabled": false,
+      "coverage": 0.5,
+      "height": 40
+    },
+    "deltas": {
+      "enabled": false,
+      "size": 1
+    },
+    "tors": {
+      "enabled": false,
+      "density": 0.35,
+      "height": 8
+    },
+    "saltFlats": {
+      "enabled": false,
+      "coverage": 0.5
+    },
+    "alluvialFans": {
+      "enabled": false,
+      "density": 0.6,
+      "size": 1
+    },
+    "glacialValleys": {
+      "enabled": false,
+      "strength": 1,
+      "cirques": 0.5
+    },
+    "volcanicSurface": false,
+    "fjords": {
+      "enabled": false,
+      "depth": 40,
+      "reach": 1
+    },
+    "atolls": {
+      "enabled": false,
+      "frequency": 0.35,
+      "size": 1
+    },
+    "dunes": {
+      "enabled": false,
+      "height": 12,
+      "coverage": 0.6
+    },
+    "buttes": {
+      "enabled": false,
+      "density": 0.45,
+      "height": 45,
+      "size": 1
+    },
+    "canyons": {
+      "enabled": false,
+      "depth": 45,
+      "frequency": 1,
+      "width": 1
+    },
+    "seaCliffs": {
+      "height": 22,
+      "seaStacks": true,
+      "gravelBeaches": 0.5,
+      "enabled": false,
+      "frequency": 0.35
+    }
+  },
+  "coasts": {
+    "spits": {
+      "enabled": false,
+      "frequency": 0.4
+    },
+    "skerries": {
+      "enabled": false,
+      "density": 0.5
+    },
+    "islandArcs": {
+      "enabled": false,
+      "frequency": 0.3
+    },
+    "riverIslands": {
+      "enabled": false,
+      "frequency": 0.5
+    },
+    "headlands": {
+      "enabled": false,
+      "strength": 1
+    },
+    "peninsulas": {
+      "enabled": false,
+      "frequency": 0.5,
+      "size": 1
+    },
+    "coastalIslands": {
+      "enabled": false,
+      "frequency": 0.5,
+      "size": 1,
+      "tombolos": 0.35
+    }
+  },
+  "caveFeatures": {
+    "rockShelters": {
+      "enabled": false,
+      "frequency": 0.6
+    },
+    "glacierCaves": {
+      "enabled": false,
+      "frequency": 0.5
+    },
+    "caveMouths": {
+      "enabled": false,
+      "strength": 1
+    },
+    "layerCaves": {
+      "enabled": false,
+      "frequency": 0.4
+    },
+    "giantCaverns": {
+      "enabled": false,
+      "frequency": 0.3
+    },
+    "karstCaves": {
+      "enabled": false,
+      "size": 1
+    },
+    "lavaTubes": {
+      "enabled": false,
+      "frequency": 0.6
+    },
+    "seaCaves": {
+      "enabled": false,
+      "frequency": 0.5
+    },
+    "undergroundRivers": {
+      "enabled": false,
+      "frequency": 0.4
+    },
+    "springs": {
+      "enabled": false,
+      "frequency": 0.3
+    }
+  },
+  "oceans": {
+    "sandWaves": {
+      "enabled": false,
+      "height": 2
+    },
+    "whaleFalls": {
+      "enabled": false,
+      "frequency": 0.3
+    },
+    "sediment": false,
+    "blueHoles": {
+      "enabled": false,
+      "frequency": 0.4
+    },
+    "coralReefs": {
+      "enabled": false,
+      "coverage": 0.5
+    },
+    "trenches": {
+      "enabled": false,
+      "frequency": 0.4,
+      "depth": 45
+    },
+    "seamounts": {
+      "enabled": false,
+      "frequency": 0.5
+    },
+    "ridges": {
+      "enabled": false,
+      "frequency": 0.5
+    },
+    "shelves": {
+      "enabled": false,
+      "width": 1
+    },
+    "submarineCanyons": {
+      "enabled": false,
+      "frequency": 0.5
+    }
+  },
+  "filters": {
+    "erosion": {
+      "dropletVelocity": 0.652,
+      "erosionRate": 0.5,
+      "depositeRate": 0.5,
+      "dropletsPerChunk": 165,
+      "dropletLifetime": 15,
+      "dropletVolume": 0.612
+    },
+    "smoothing": {
+      "iterations": 1,
+      "smoothingRadius": 1.799,
+      "smoothingRate": 0.898
+    }
+  },
+  "structures": {},
+  "miscellaneous": {
+    "vanillaLavaSprings": false,
+    "mountainBiomeUsage": 0.902,
+    "volcanoBiomeUsage": 0.945,
+    "riverBanks": false,
+    "customBiomeFeatures": false,
+    "vanillaSprings": true,
+    "vanillaLavaLakes": true,
+    "oreCompatibleStoneOnly": true,
+    "erosionDecorator": true,
+    "plainStoneErosion": false,
+    "naturalSnowDecorator": true,
+    "smoothLayerDecorator": true,
+    "strataRegionSize": 721,
+    "strataDecorator": true
+  },
+  "climate": {
+    "temperature": {
+      "min": 0,
+      "max": 1,
+      "bias": 0.097,
+      "seedOffset": 0,
+      "scale": 4,
+      "falloff": 2
+    },
+    "moisture": {
+      "min": 0,
+      "max": 1,
+      "bias": 0,
+      "seedOffset": 0,
+      "scale": 3,
+      "falloff": 1
+    },
+    "biomeShape": {
+      "biomeSize": 1013,
+      "macroNoiseSize": 5,
+      "biomeWarpScale": 180,
+      "biomeWarpStrength": 210
+    },
+    "biomeEdgeShape": {
+      "gain": 0.5,
+      "lacunarity": 2.65,
+      "strength": 60,
+      "type": "PERLIN2",
+      "scale": 24,
+      "octaves": 1
+    }
+  },
+  "terrain": {
+    "torridonian": {
+      "weight": 2,
+      "baseScale": 1,
+      "verticalScale": 1,
+      "horizontalScale": 1
+    },
+    "mountains": {
+      "weight": 2.5,
+      "baseScale": 1,
+      "verticalScale": 1,
+      "horizontalScale": 1
+    },
+    "volcano": {
+      "weight": 5,
+      "baseScale": 1,
+      "verticalScale": 1,
+      "horizontalScale": 1
+    },
+    "plateau": {
+      "weight": 1.5,
+      "baseScale": 1,
+      "verticalScale": 1,
+      "horizontalScale": 1
+    },
+    "badlands": {
+      "weight": 1,
+      "baseScale": 1,
+      "verticalScale": 1,
+      "horizontalScale": 1
+    },
+    "plains": {
+      "weight": 2,
+      "baseScale": 1,
+      "verticalScale": 1,
+      "horizontalScale": 1
+    },
+    "hills": {
+      "weight": 2,
+      "baseScale": 1,
+      "verticalScale": 1,
+      "horizontalScale": 1
+    },
+    "dales": {
+      "weight": 1.5,
+      "baseScale": 1,
+      "verticalScale": 1,
+      "horizontalScale": 1
+    },
+    "general": {
+      "globalVerticalScale": 1,
+      "globalHorizontalScale": 1.175,
+      "fancyMountains": true,
+      "terrainSeedOffset": 0,
+      "terrainRegionSize": 1507
+    },
+    "steppe": {
+      "weight": 1,
+      "baseScale": 1,
+      "verticalScale": 1,
+      "horizontalScale": 1
+    }
+  },
+  "rivers": {
+    "raisedWater": false,
+    "gorgeDepth": 32,
+    "winding": false,
+    "lakes": {
+      "sizeMax": 150,
+      "minBankHeight": 2,
+      "maxBankHeight": 10,
+      "chance": 0.595,
+      "depth": 10,
+      "sizeMin": 75
+    },
+    "wetlands": {
+      "chance": 0.86,
+      "sizeMin": 175,
+      "sizeMax": 225
+    },
+    "seedOffset": 0,
+    "riverCount": 13,
+    "mainRivers": {
+      "bankWidth": 28,
+      "bedWidth": 100,
+      "fade": 0.27,
+      "bedDepth": 5,
+      "minBankHeight": 1,
+      "maxBankHeight": 5
+    },
+    "branchRivers": {
+      "bankWidth": 18,
+      "bedWidth": 3,
+      "fade": 0.7,
+      "bedDepth": 3,
+      "minBankHeight": 1,
+      "maxBankHeight": 3
+    }
+  },
+  "world": {
+    "continent": {
+      "continentNoiseOctaves": 5,
+      "continentNoiseGain": 0.26,
+      "continentNoiseLacunarity": 4.33,
+      "continentSkipping": 0.25,
+      "continentSizeVariance": 0.25,
+      "continentType": "MULTI",
+      "continentShape": "EUCLIDEAN",
+      "continentScale": 6384,
+      "continentJitter": 0.8
+    },
+    "controlPoints": {
+      "inland": 0.5,
+      "midInland": 1.327,
+      "farInland": 2.758,
+      "beach": 0.326,
+      "coast": 0.448,
+      "islandInland": -1,
+      "islandCoast": -1,
+      "deepOcean": 0.1,
+      "shallowOcean": 0.25
+    },
+    "properties": {
+      "worldDepth": 64,
+      "seaLevel": 63,
+      "lavaLevel": -54,
+      "spawnType": "CONTINENT_CENTER",
+      "worldHeight": 320
+    }
+  },
+  "surface": {
+    "erosion": {
+      "heightModifier": 6,
+      "slopeModifier": 3,
+      "snowAspect": 0,
+      "dirtSteepness": 0.475,
+      "screeSteepness": 0.4,
+      "snowSteepness": 0.45,
+      "dirtMin": 95,
+      "snowHeight": 95,
+      "rockSteepness": 0.65,
+      "rockVariance": 30,
+      "rockMin": 140,
+      "dirtVariance": 40
+    }
+  },
+  "caves": {
+    "ravineCarverProbability": 0.02,
+    "largeOreVeins": true,
+    "legacyCarverDistribution": false,
+    "caveCarverProbability": 0.14285715,
+    "deepCaveCarverProbability": 0.07,
+    "cheeseCaveProbability": 1,
+    "spaghettiCaveProbability": 1,
+    "noodleCaveProbability": 1,
+    "entranceCaveProbability": 0,
+    "cheeseCaveDepthOffset": 1.5625
+  }
+}

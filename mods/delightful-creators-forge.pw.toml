@@ -1,0 +1,12 @@
+name = "Delightful Creators [Forge] (Create and Farmer's Delight Addon)"
+filename = "delightfulcreators-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/RaZ6cEBB/delightfulcreators-1.1.9.jar"
+hash-format = "sha512"
+hash = "0c3cf7ebac0e1458a98f8d3dfcd4b87f45706c8fbc4b7c266f390851b606a80251c859e321898ec24a5a5654cda824e4d5163db392cf2d77e3bbd63e47330868"
+
+[update.curseforge]
+file-id = 8530749
+project-id = 1275340

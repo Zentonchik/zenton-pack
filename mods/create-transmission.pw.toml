@@ -1,0 +1,12 @@
+name = "Create: Transmission!"
+filename = "createtransmission-1.2.2+forge-create6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QFCkBuIh/versions/wBPYjsJ6/createtransmission-1.2.2%2Bforge-create6-1.20.1.jar"
+hash-format = "sha512"
+hash = "9cc8f3a2b10732f0c921e3b13e44d1bd31fe6bfc8589b6ca36a505bddad2e0c3f732dbc9af3b1ddce444c6069bac307bb96bc72cd16448e7495dd36284ee8fe1"
+
+[update.curseforge]
+file-id = 8646662
+project-id = 1354280

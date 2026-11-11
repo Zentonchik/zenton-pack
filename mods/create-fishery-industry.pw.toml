@@ -1,0 +1,12 @@
+name = "Create: Fishery Industry"
+filename = "createfisheryindustry-1.20-5.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8463/638/createfisheryindustry-1.20-5.0.3.jar"
+hash-format = "sha1"
+hash = "e65ddf6dadf490a7a42a4fd3dd58499864c3ad40"
+
+[update.curseforge]
+file-id = 8463638
+project-id = 1245539

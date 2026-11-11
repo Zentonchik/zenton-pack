@@ -1,0 +1,12 @@
+name = "Create: Apotheosis Automation"
+filename = "apotheosis_create-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8293/26/apotheosis_create-1.1.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "ca318ce12a666a4c9e88ed93145ff8efeb4a48c5"
+
+[update.curseforge]
+file-id = 8293026
+project-id = 1455318

@@ -1,0 +1,12 @@
+name = "Create: Easy Stock Ticker"
+filename = "create_ez_stock_ticker-1.1.2+forge1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qYDytzUC/versions/wQP6RRi6/create_ez_stock_ticker-1.1.2%2Bforge1.jar"
+hash-format = "sha512"
+hash = "ae62b584e33300268d606ee30525a360f7dcd94ffb7c58bb170480ba57799ba861fe7f9631e1638f0baf200fb53deee71183683115295dc17bc08e2b0700e74b"
+
+[update.curseforge]
+file-id = 8809202
+project-id = 1340326

@@ -1,0 +1,12 @@
+name = "TFMG Optimizer (Create: The Factory Must Grow Optimizer)"
+filename = "tfmg_patch.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8007/822/tfmg_patch.jar"
+hash-format = "sha1"
+hash = "6dbe5aa3f5f934b4be22904c905d9a5357f96acb"
+
+[update.curseforge]
+file-id = 8007822
+project-id = 1456944
