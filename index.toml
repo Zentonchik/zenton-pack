@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CSC/Data/variables.data"
-hash = "1c29f24830c6a27e81a361d6b4425274a836c141c08b7930f612103562996553"
+hash = "1ae021587f823792e16c001cb303e1ed45ab5ecfda3978f535e6dd086ba45c96"
 
 [[files]]
 file = "config/CSC/config.toml"
@@ -590,7 +590,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json"
-hash = "50b760ffbc0d9d309063b8a59249498455584732d46e4e8b45bf45bdfa148678"
+hash = "5ab08dae537d43aef3f217e3a7a17608d39f1be082960fe4abd545d0697a72dc"
 
 [[files]]
 file = "config/bits_n_bobs-common.toml"
@@ -1018,7 +1018,7 @@ hash = "c4a4c23880a6d55064f1a5a741ab94e26b410fb09e1f185e015ae02790ebe45a"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3426907e5ad297287e9bee343e730332f674dbe35a6c288c3e86c0f367d23d85"
+hash = "7f01009db93487700b4f74a1290cc85daac5b67bf01870b851faa5555223cc7a"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -1382,7 +1382,7 @@ hash = "76f9d73ac30e958e01d8653474121350f30944783df4bc6632560775b4a9c749"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ace6df4ec9ff45d90cf5bd1d1e863c1a434cf098c3f65fd06d34ecf256f91fd2"
+hash = "c4241832638919b2520f28212435fe151fd69c20e3c533ea4f127c8e71cacd51"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
@@ -1390,7 +1390,7 @@ hash = "95eff954328b6ce0d67ab9a0f6e6893f89c4b7784484ea49633a5b6231d846fa"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "3f40db142e15d7904fcbb8167d309d5269913d826199332c27baa9445ba76669"
+hash = "a0584beec311eca7c4480cb280e5a3ffffc0b1637939fce0cc2b0eb9a6568ff3"
 
 [[files]]
 file = "config/pantographsandwires-client.toml"
@@ -1590,7 +1590,7 @@ hash = "f56fd560a9d5d00822f1669147a68e74d17e32a801eb99b8ca5339dc3d9dfb57"
 
 [[files]]
 file = "config/rsls.properties"
-hash = "655d0470e4ede51c7def96a79ea3a04c9126f9c2ccfeab24514e1db20fbe936c"
+hash = "e4d72951871e2b13a0bf4024f4d346593f45a2562c70cfc3bbadfa68a8be428b"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -1912,7 +1912,7 @@ preserve = true
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "d63a6b4f8f667d36597d2fca382770e57c477bb9d90b3531c52fc08a037ae788"
+hash = "40f1a9f0653cbed778ecb98143125028d9de87dbd9d57e0211a842ef045b9218"
 preserve = true
 
 [[files]]
@@ -3628,8 +3628,8 @@ hash = "e8e09849c06337d4f45853dd31d70600a7d4cf426bbf3b353ff15208e72a923d"
 metafile = true
 
 [[files]]
-file = "mods/zentonfix-1.0.0.jar"
-hash = "2dc7efaf46d1c0f0158d4dc276f2d426acd7fb5882107f4bf48be7a06359fbb4"
+file = "mods/zentonfix-1.1.0.jar"
+hash = "79dd334a0457f2580d9eeb3bb81b3c98a9a7628d9fc1eaaec401e7b77ad9b20d"
 
 [[files]]
 file = "mods/zeta.pw.toml"
@@ -3638,7 +3638,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ae44f4341c0b381c6fa52474452290a00e96c372588d723f9c14ab84b0b0e9b3"
+hash = "0a106b651300a0505308a2238ba964057a46b107c3d75b76ee56866d5b8366a2"
 preserve = true
 
 [[files]]
@@ -3646,8 +3646,28 @@ file = "resourcepacks/Zenton-RU-own.zip"
 hash = "a890582c513f8b19e43d3ed62cbb50afc5c443b925bc3d3c1c8b05d7de7dab03"
 
 [[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "f15c3741c56be7a5f6da4ec7fae2435ec97a299439d674a256ccf2b9c3dd1fb6"
+file = "resourcepacks/fresh-animations-creepers.pw.toml"
+hash = "008f40feefc5c6ef77e6da25a073edfba673157cd98bdf4a7dc19aa27c326718"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-details.pw.toml"
+hash = "240308ef8a8457d03e19f1fc5ed4025bb99feb1ed0df7a81b24f4dfae0b656e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "87832a38e69494dc3f5d8b3b042024be33cce15bc4ef620dd43d8e56d35bccc9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-objects.pw.toml"
+hash = "6a027e0a948f6e0217f21412abe62dfd3e38bfeb73e44845f5b9eaf7906ef57a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-quivers.pw.toml"
+hash = "3824d55432b5d9c58c0b94e9cf964a733505d71085b693721f0b3f513dabfaed"
 metafile = true
 
 [[files]]
@@ -3702,7 +3722,7 @@ preserve = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
-hash = "fdd3efd3ed9bce468e33a7636b5d03bc9c947c5f7b9228ab24dff35fef2258d3"
+hash = "9b3e056ca66694ba8135f92bca17124e55bf6d9fb2b5b86e47f432cb77dfc109"
 preserve = true
 
 [[files]]

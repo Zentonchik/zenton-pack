@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["mod_resources","vanilla","generated/fragmentum_layer","fabric","Moonlight Mods Dynamic Assets","file/FreshAnimations_v1.11.2_1.20.zip","file/FA-All_Extensions-v1.10.1.zip","file/FreshCompats_v1.6.zip","file/Rus-For-Mods-1.20-B6.zip","file/Mod-Translate-10.0.2.zip","file/Translation into Russian by Kastik404 V6.zip","file/MPLOCmods_v43.zip","file/RTF_v.2.8.4_1.20.x.zip","file/§eRTF+ v.2.7.0§0_§8§0.zip","file/Zenton-RU-own.zip","file/Stay_True_1.20.zip"]
+resourcePacks:["mod_resources","vanilla","generated/fragmentum_layer","fabric","Moonlight Mods Dynamic Assets","file/FreshAnimations_v1.11.2_1.20.zip","file/FA+Details-v2.4.zip","file/FA+Objects-v2.1.2.zip","file/FA+Quivers-v2.3.zip","file/FA+Emissive-v1.7.zip","file/FA+Creepers-v2.2.zip","file/FreshCompats_v1.6.zip","file/Rus-For-Mods-1.20-B6.zip","file/Mod-Translate-10.0.2.zip","file/Translation into Russian by Kastik404 V6.zip","file/MPLOCmods_v43.zip","file/RTF_v.2.8.4_1.20.x.zip","file/§eRTF+ v.2.7.0§0_§8§0.zip","file/Zenton-RU-own.zip","file/Stay_True_1.20.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
