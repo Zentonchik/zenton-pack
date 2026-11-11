@@ -637,6 +637,10 @@ file = "config/cataclysm-common.toml"
 hash = "ff05ff6bd50062f7f2519f16c50adece732127ccb61a12017b17638a334b5226"
 
 [[files]]
+file = "config/cavedust.json"
+hash = "e1dbf9ee1bbfbbb7202b8eea8a1c0e492a98fa72a120b438f0dda8c27527d607"
+
+[[files]]
 file = "config/cfwinfo-common.toml"
 hash = "ebfab34a3ce0484ea85a5b5ca344bd18ae4221bf095fcfc48487dfbaa6378bb9"
 
@@ -997,6 +1001,14 @@ file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
+file = "config/euphoria_patcher/.data.json"
+hash = "204d7f4474228c824d6ee7a07dc7dd78fab76a38d3a80175b043f5463dbbcc99"
+
+[[files]]
+file = "config/euphoria_patcher/settings.toml"
+hash = "13aee892d000bdd43d88178fbcaa96549f28ae4ae528e1f1eacaf791742f9ec6"
+
+[[files]]
 file = "config/extra_gauges-client.toml"
 hash = "4e6cd820b21809464268a562cc1388d3ed0484086df271946a7b128e40b08092"
 
@@ -1006,7 +1018,7 @@ hash = "c4a4c23880a6d55064f1a5a741ab94e26b410fb09e1f185e015ae02790ebe45a"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "60a3124ec0a004628b5e46515db42476456637c41269f3b8115ec33b1adf51bb"
+hash = "3426907e5ad297287e9bee343e730332f674dbe35a6c288c3e86c0f367d23d85"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -1015,6 +1027,62 @@ hash = "999a84563549e098978ef10d8cc7e3fc5f71145d44095097625154b4de8e73c8"
 [[files]]
 file = "config/fallingtrees_common.json"
 hash = "7e55389203c18572491a025db2392fc67ebb4e167a1c617679445210aa88757a"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "bb0cebafc9b0a42caa1028049d5a889a925b94a32a9a533222760449c60cdb86"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/fantasy_armor-client.toml"
@@ -1221,6 +1289,22 @@ file = "config/kiwi-common.yaml"
 hash = "8fb69c0a392b81158eef544771046c67bacc320710da6d63cf441277a821479e"
 
 [[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "c51c5a927c1f59d9373c038aea225dc618647ac076a9142d25111c86feaab64e"
 
@@ -1239,6 +1323,10 @@ hash = "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0"
 [[files]]
 file = "config/lootr-common.toml"
 hash = "8608b427ee774c20c04cdcd9044269bacd87d74c28497ca6c784a25286d4200f"
+
+[[files]]
+file = "config/make_bubbles_pop.json"
+hash = "2266b2e507e4dcea55fb1a53be33690efc8c1fe4ce7a559a98a29fecac2069c4"
 
 [[files]]
 file = "config/malum-client.toml"
@@ -1294,7 +1382,7 @@ hash = "76f9d73ac30e958e01d8653474121350f30944783df4bc6632560775b4a9c749"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "ef58228bfe2e30440c4606940cd040e58f828f37f7685d844fb48c48fa6f04c1"
+hash = "ace6df4ec9ff45d90cf5bd1d1e863c1a434cf098c3f65fd06d34ecf256f91fd2"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
@@ -1302,7 +1390,7 @@ hash = "95eff954328b6ce0d67ab9a0f6e6893f89c4b7784484ea49633a5b6231d846fa"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "d783de2fc298851f4ae10d8c50a9c69969207718ee598576e213611a816951ff"
+hash = "3f40db142e15d7904fcbb8167d309d5269913d826199332c27baa9445ba76669"
 
 [[files]]
 file = "config/pantographsandwires-client.toml"
@@ -1335,6 +1423,10 @@ hash = "4a317bb5ec8fef879abb1b2de9ffaa75804b3471a79950c1d1110ff35c1d9e0e"
 [[files]]
 file = "config/powergrid-common.toml"
 hash = "dd8612131e9778407007ab367abb2645235465913abe5245b17fa87c51dbd168"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "6cffea1c20852a079342429a0f223fcc45993a51596c4736e0fe1910c3fcba52"
 
 [[files]]
 file = "config/projectvibrantjourneys-common.toml"
@@ -1498,7 +1590,7 @@ hash = "f56fd560a9d5d00822f1669147a68e74d17e32a801eb99b8ca5339dc3d9dfb57"
 
 [[files]]
 file = "config/rsls.properties"
-hash = "95b6e26796730b638ee21b41688bea8d740eb136a75003aceb64bdb2379984b2"
+hash = "655d0470e4ede51c7def96a79ea3a04c9126f9c2ccfeab24514e1db20fbe936c"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -1777,6 +1869,10 @@ file = "config/voidscape-common.toml"
 hash = "1b4667619b4b423c22ece533529a3e5317ba48ca8a906b07c30ec85c50977464"
 
 [[files]]
+file = "config/wakes-client.toml"
+hash = "1108654bff14339bf0805aff2b9049a1637fc0bed34070d117407645523dc1de"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "4cf1d13d8827bcdce75acadb1f3ea24732fd6fa6575ec8a261a37b21c481674d"
 
@@ -2039,6 +2135,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "64f3bb048c24027b0eb84f1510c4612899d9b2baee627f9041bd5e5a95c336e1"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust-rethinking.pw.toml"
+hash = "9a1fa5982fa3b4b5d4959cba4210400daee1318863d9ab203f78df85cc477872"
 metafile = true
 
 [[files]]
@@ -3012,6 +3113,11 @@ hash = "1fab423382fbe05c0d9984f6147df0b2159b4841c6fd734af236ca445c864c71"
 metafile = true
 
 [[files]]
+file = "mods/make-bubbles-pop.pw.toml"
+hash = "2a6a9e41cea0cb51b0ada804cfa1ff78f60745e8c08dcf7f417f9d79ce1808be"
+metafile = true
+
+[[files]]
 file = "mods/malum.pw.toml"
 hash = "06e169f47c6ca1135009615c4be7863d32bbeea8e167fc0326170361c85b36d4"
 metafile = true
@@ -3174,6 +3280,11 @@ metafile = true
 [[files]]
 file = "mods/power-grid.pw.toml"
 hash = "d88963a2cdc0fb131db5787036a1967fd09c5dcaf6eb43f9660f777b306be049"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "9f66f34445ad4143a0e355d954d0c043907b0a03dd66e289d7c278948deeec72"
 metafile = true
 
 [[files]]
@@ -3457,6 +3568,11 @@ hash = "7c49f7766234daa245339533ad66a64e3136a664da02d554537cb3f8b37c6199"
 metafile = true
 
 [[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "2b1b5766f927647c449e2ee6124c4572c7d5c90b8b1f11e9ca5cc6a9594cba0e"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "9f6129b0a0049e626c7bbe66340da516b8a5cc24b52e57025cba7cfbca4a47d5"
 metafile = true
@@ -3580,8 +3696,18 @@ hash = "f056a1be533f1d3b0a9e1ae6a66fcc406b5df3600a874cecc49d61fcff4d5b9a"
 metafile = true
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5.txt"
+hash = "480aa791f4ca38b9c2770a3280adb527beb290bd8c3d843a25874be0f42e86e8"
+preserve = true
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
-hash = "4ea4ef258e36a008a8c4a393b71bccbfd8bb5f721c557a90a6b6d5e3f689ef09"
+hash = "fdd3efd3ed9bce468e33a7636b5d03bc9c947c5f7b9228ab24dff35fef2258d3"
+preserve = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.9.3 + EuphoriaPatches_1.10.5.txt"
+hash = "480aa791f4ca38b9c2770a3280adb527beb290bd8c3d843a25874be0f42e86e8"
 preserve = true
 
 [[files]]

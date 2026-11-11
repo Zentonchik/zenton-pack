@@ -1,0 +1,12 @@
+name = "Cave Dust Rethinking"
+filename = "cave_dust_rethinking-3.4.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7pdlDpFR/versions/RudBCPnL/cave_dust_rethinking-3.4.0%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "c72da4a357f504cc64be49a0c1071afbb282b247e6873c51c0fe540a280e8c5f68432ab469a9200b03dc641a66f8ddb3e3913416acfe2d3733163171d7429c95"
+
+[update.curseforge]
+file-id = 8975994
+project-id = 1617531
