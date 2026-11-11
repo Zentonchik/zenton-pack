@@ -1807,34 +1807,42 @@ hash = "61858b604dcb0fa932e7305a439b643158a106b0a1be6aeda2ca6f6d7333d242"
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
 hash = "471eb8f9151dab2b97dedb4c22747fc2d1b778f93efc9c8a63991c228e7a5af4"
+preserve = true
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
 hash = "c78c881cb9abb6d4b71db9c1365bb77b48600a973d818ec3387f3d85e79eccff"
+preserve = true
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
 hash = "d63a6b4f8f667d36597d2fca382770e57c477bb9d90b3531c52fc08a037ae788"
+preserve = true
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
 hash = "6a67b428359d4a149e5844e434836152f3fc34dd56473d910d0fa4c5d75b0447"
+preserve = true
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
 hash = "4ac8815ddcf172235f102639d8816c510f3bf6f408cfb685d61b35285cbb1d0a"
+preserve = true
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.topo.config"
 hash = "312026259b9817563bbf52062e0e035fa77ccc5405c485c03878a185dccd655e"
+preserve = true
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
 hash = "271aeef6c1017fa9b522e368b9ab7289b1a2e0c2fb5cb771d2177663bc0a4ac7"
+preserve = true
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
 hash = "7c6645c4ec067bc9d7a39071291ace692f93285a45a0b4c40a6a96bfbd6ebf15"
+preserve = true
 
 [[files]]
 file = "kubejs/README.txt"
@@ -2679,6 +2687,11 @@ hash = "ccc3ce906945c45a872a83683c9fbbecb0cf2d44193c490eec726ff583f6cba3"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "5af8b9d4934ff824d1ce7b72c293e0843bc3cd6e544ae4e106dc627d7404be01"
+metafile = true
+
+[[files]]
 file = "mods/extra-bounties.pw.toml"
 hash = "45fe2eb2a2c5d21022e131dccd939ee1d6c5180c8d951b501622bf772457a7b9"
 metafile = true
@@ -2686,6 +2699,11 @@ metafile = true
 [[files]]
 file = "mods/familiarslib.pw.toml"
 hash = "1c7ed670b8f538e8f31a341e262f9be86f7fec9d624b9ef24fb5fe972ae3b693"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "61d1ac9a5cf594dcc467a66e17a64b4989bdf1f06087e4fe54cfa25b8d8297bf"
 metafile = true
 
 [[files]]
@@ -2939,6 +2957,11 @@ hash = "764b33b454ea9db51374826e649d5b500cc1ab9735ed4b7d94378a312db9d89c"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "c2477532cb4b04480b6dfc8c2c6891a6cf49b978a4741b256e39ec48dc94de3a"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "f2b24300bd85d745fe8d19e3918cae06b2528269e0877e744b993da863f00235"
 metafile = true
@@ -2996,6 +3019,11 @@ metafile = true
 [[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "2867d717cee3999e78f6a68c129592006972be03a2c1d3f59e40db22bb20d0b5"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "5e5540187f239a9fed2335986a930e3a5943bc6624cd571858dace395a4dce0f"
 metafile = true
 
 [[files]]
@@ -3499,7 +3527,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/Zenton-RU-own.zip"
-hash = "f46a0e946efb1a75031f54c1b6b1df7cc7707c2fa9ce91f8718270cf35bdfa7e"
+hash = "a890582c513f8b19e43d3ed62cbb50afc5c443b925bc3d3c1c8b05d7de7dab03"
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
