@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CSC/Data/variables.data"
-hash = "1ae021587f823792e16c001cb303e1ed45ab5ecfda3978f535e6dd086ba45c96"
+hash = "13201bc6801a5ad40d58781b845259cdfc2946f1ce746f5db5b4522cca5c0975"
 
 [[files]]
 file = "config/CSC/config.toml"
@@ -1018,7 +1018,7 @@ hash = "c4a4c23880a6d55064f1a5a741ab94e26b410fb09e1f185e015ae02790ebe45a"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "7f01009db93487700b4f74a1290cc85daac5b67bf01870b851faa5555223cc7a"
+hash = "b0387e90ca79999335e4b1eb75b0532a8d0d42599e6ddfa841f4676852bcc53e"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -1382,7 +1382,7 @@ hash = "76f9d73ac30e958e01d8653474121350f30944783df4bc6632560775b4a9c749"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c4241832638919b2520f28212435fe151fd69c20e3c533ea4f127c8e71cacd51"
+hash = "dfa7650301e2e8e5341eee507d14b7a91667277d2d13ade4bc4dd78a33f431cc"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
@@ -1390,7 +1390,7 @@ hash = "95eff954328b6ce0d67ab9a0f6e6893f89c4b7784484ea49633a5b6231d846fa"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a0584beec311eca7c4480cb280e5a3ffffc0b1637939fce0cc2b0eb9a6568ff3"
+hash = "0611e71c0ffd7bf20e239904de55fcc19e5fd08da320bb2a729baf0649a70196"
 
 [[files]]
 file = "config/pantographsandwires-client.toml"
@@ -1590,7 +1590,7 @@ hash = "f56fd560a9d5d00822f1669147a68e74d17e32a801eb99b8ca5339dc3d9dfb57"
 
 [[files]]
 file = "config/rsls.properties"
-hash = "e4d72951871e2b13a0bf4024f4d346593f45a2562c70cfc3bbadfa68a8be428b"
+hash = "8c4ff891b05fe74f34fb7f213ffc600d04b1d7ae75e94996903d03026aac08b7"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -2095,6 +2095,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "1976a0ffd78447c133c2f32dc94f88cc7efb7736e378262f7144ecd727b019f9"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "28b35101a43143b8371255606fe5261c1aa167dd72e2847547bd892c14170d7c"
 metafile = true
 
 [[files]]
@@ -3638,7 +3643,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0a106b651300a0505308a2238ba964057a46b107c3d75b76ee56866d5b8366a2"
+hash = "6127f312f6a4b220f59c969695192395c369d1887204341370fe4e91eb985f25"
 preserve = true
 
 [[files]]
@@ -3722,7 +3727,7 @@ preserve = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
-hash = "9b3e056ca66694ba8135f92bca17124e55bf6d9fb2b5b86e47f432cb77dfc109"
+hash = "964de815372e6a482c9176f4ec5d3a3dc3ce0cb1dd77d830205aff78a2f7ca1d"
 preserve = true
 
 [[files]]
