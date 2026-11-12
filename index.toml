@@ -2955,7 +2955,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "569c5b91d02a9cd09fbec63e0f95bcac60733e8461104db72c7a9687c81bede8"
+hash = "050d340e2e899830200f37300a69741feebdb97d7b240ff33f98912f8b685c30"
 metafile = true
 
 [[files]]
@@ -3435,7 +3435,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "8dd790378c6b24f054df06a3b6f580d1e78559ffb17ea5f18bd40e291ed245dd"
+hash = "14c1a87f9d3596547eaf16e344d8c0f277b643439acbcc832dc08a07c60230a2"
 metafile = true
 
 [[files]]
