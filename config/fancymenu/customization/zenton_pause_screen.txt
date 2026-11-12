@@ -1,0 +1,38 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = net.minecraft.client.gui.screens.PauseScreen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1794519829203
+  is_enabled = true
+  widget_identifier_revision = 2
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+}
+
+element {
+  element_type = image
+  instance_identifier = zenton_pause_title
+  appearance_delay = every_time
+  appearance_delay_seconds = 0.05
+  disappearance_delay = no_delay
+  fade_in_v2 = every_time
+  fade_in_speed = 3.5
+  fade_out = no_fading
+  base_opacity = 1.0
+  auto_sizing = false
+  sticky_anchor = false
+  anchor_point = top-centered
+  x = -48
+  y = 3
+  width = 96
+  height = 34
+  stay_on_screen = true
+  enable_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  source = [source:local]/config/fancymenu/assets/zenton/title.png
+}

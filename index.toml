@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/CSC/Data/variables.data"
-hash = "13201bc6801a5ad40d58781b845259cdfc2946f1ce746f5db5b4522cca5c0975"
+hash = "721d21fccff8edd251f8e974025f096e8332b54dc3b766484768d5efae87939a"
 
 [[files]]
 file = "config/CSC/config.toml"
@@ -525,6 +525,10 @@ file = "config/betterarcheology-common.toml"
 hash = "b2729a5916c5aac214f67337d1d38ee7767e1e14b7f2dcb7b7371a9509829a96"
 
 [[files]]
+file = "config/betterclouds-v1.json"
+hash = "f356532d675bc64ab1484b91b8d5398b56a75d964d33e1f9155559d3be73a0f4"
+
+[[files]]
 file = "config/betterdeserttemples-forge-1_20.toml"
 hash = "ee648242e301a55004cf2796dbf7d31ba1e46765ad07dd45c12053bbb4f4d387"
 
@@ -1018,7 +1022,7 @@ hash = "c4a4c23880a6d55064f1a5a741ab94e26b410fb09e1f185e015ae02790ebe45a"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "b0387e90ca79999335e4b1eb75b0532a8d0d42599e6ddfa841f4676852bcc53e"
+hash = "72269836385f8d35bc3152698c0ad6a98d9ab5851e3a54b425a4803d322491bd"
 
 [[files]]
 file = "config/fallingtrees_client.json"
@@ -1029,12 +1033,76 @@ file = "config/fallingtrees_common.json"
 hash = "7e55389203c18572491a025db2392fc67ebb4e167a1c617679445210aa88757a"
 
 [[files]]
+file = "config/fancymenu/animation_controller_states.json"
+hash = "011166bc8bcb7a186052d5fc087e7ff4121a3f50592ba609afa01eeb576178b0"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/button_hover.png"
+hash = "f0c788960eff7a029e20695d3aa6b97f9519e4898795422ec5780e3b3f180334"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/button_inactive.png"
+hash = "46f298c0f7eaaed2f007916e62d1f26de409537181a692a9c1488003bae8e547"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/button_normal.png"
+hash = "d6af19d2c1b42ebdd81b203483dbab6fa4238302a6dce3bc3dd9b4efe48c0eb5"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/click.ogg"
+hash = "ad45722327d3b8c72ac1b11308b75bd4e8a886630b933b7d039b70174ce8e198"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/list_footer.png"
+hash = "d3734a26a39f41b8f69c9742ccc880ff9125ef6ce92d8857b97daeb2371edc51"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/list_header.png"
+hash = "f7cb53857cd67fe57a94ac5a904df58e42aa98bf145b53ad6d324a28c9c747e0"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/menu_music.ogg"
+hash = "39ef2ac7bbd03e0c8afd81db82e83323f434b66bc5b77abcb88205e8b1f30e33"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/slider_background.png"
+hash = "f566ceca53ca038d55e24e00a9620a06437fe03f6c2bd2c12cc3a09fe95dc956"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/slider_handle_hover.png"
+hash = "e9c7a889066a0b2a76552bac698bc697012059e9b33c80ec038a1bcdbab8d41b"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/slider_handle_normal.png"
+hash = "704f8ad36d00408d8f9dcece140a2f2da8c0fcaa7c61daa97b1180568a5040a3"
+
+[[files]]
+file = "config/fancymenu/assets/zenton/title.png"
+hash = "4a1471fa66566f9e6fd2d419b05f3393e9210697048f49974a05426f44b7264c"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "66dae28a62579b6d0764f2179ed4d004b0b3b6fbf1d4a1ba0497d6206dfd70d0"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
+hash = "1a9d1b35291ea3554d67f563b8b96e488ae84cd62bcf82af6f9fffba5ab6ff2d"
+
+[[files]]
+file = "config/fancymenu/customization/zenton_menus_universal.txt"
+hash = "91f2df2a406d30bebbbe7bf18a4eddde5a5c42d604fe4f8bef13d40af36d5c44"
+
+[[files]]
+file = "config/fancymenu/customization/zenton_pause_screen.txt"
+hash = "71c0910e3a2bdb9426bb083e7e5f998934650f85a00bc9f2847d73782696f130"
+
+[[files]]
+file = "config/fancymenu/customization/zenton_title_screen.txt"
+hash = "1b596658fd94d759f491b3999ccbd05b81dd4ac8a0440f3fe44bbbca8dd34cd1"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -1042,7 +1110,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "bb0cebafc9b0a42caa1028049d5a889a925b94a32a9a533222760449c60cdb86"
+hash = "62c334989e1fc72fec2e750b1fbc6a980972bc8347ae72dd4b6a4e27e8fe272f"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -1150,7 +1218,7 @@ hash = "22b7f87be30b7e3ce6fa3fe1cb588e8b3eae0bfc9ddc390ad346a1d1bbfebb4b"
 
 [[files]]
 file = "config/iceandfire/iaf-client.json"
-hash = "cb326e55a4a76c4741c031ce61b48f96b56dbc327792d457f4eb7894d6a0fad7"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
 
 [[files]]
 file = "config/iceandfire/iaf-common.json"
@@ -1386,7 +1454,7 @@ hash = "95eff954328b6ce0d67ab9a0f6e6893f89c4b7784484ea49633a5b6231d846fa"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "0611e71c0ffd7bf20e239904de55fcc19e5fd08da320bb2a729baf0649a70196"
+hash = "43b0dcf54d9eb86a6d818b2026dd27c0f25d5b631e2934b5640af25f84b9608f"
 
 [[files]]
 file = "config/pantographsandwires-client.toml"
@@ -1562,7 +1630,7 @@ hash = "77f4e800a6bdebee0bbd0e20e8807662101ca69523a181a27ce9be83156cccd4"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "2364db1a8e0da49673a91ccfdfc09114973cb16fb09f5c666585d7b845eb8bdc"
+hash = "01747931b346244fcc3c66da71ed9b4eeb04fba6bee6ff833aaf5de46259c329"
 
 [[files]]
 file = "config/railways-client.toml"
@@ -1586,7 +1654,7 @@ hash = "f56fd560a9d5d00822f1669147a68e74d17e32a801eb99b8ca5339dc3d9dfb57"
 
 [[files]]
 file = "config/rsls.properties"
-hash = "8c4ff891b05fe74f34fb7f213ffc600d04b1d7ae75e94996903d03026aac08b7"
+hash = "56169ed4420f0307537eebdb7973284edd35770906bf00c5cafbfa864d459e84"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -3639,7 +3707,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6127f312f6a4b220f59c969695192395c369d1887204341370fe4e91eb985f25"
+hash = "3d5367ccbbfa54bb8f65775f4d85f5ef204608b80abdc878af803498242d0c1e"
 preserve = true
 
 [[files]]
@@ -3723,7 +3791,7 @@ preserve = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
-hash = "964de815372e6a482c9176f4ec5d3a3dc3ce0cb1dd77d830205aff78a2f7ca1d"
+hash = "53ce0bee7bd2124d095e5371cfb4f4df89e1e58c667fd001ea6b3d22ede4e570"
 preserve = true
 
 [[files]]
