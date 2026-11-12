@@ -1381,10 +1381,6 @@ file = "config/obscuria/loot_journal-client.toml"
 hash = "76f9d73ac30e958e01d8653474121350f30944783df4bc6632560775b4a9c749"
 
 [[files]]
-file = "config/oculus.properties"
-hash = "dfa7650301e2e8e5341eee507d14b7a91667277d2d13ade4bc4dd78a33f431cc"
-
-[[files]]
 file = "config/overflowingbars-client.toml"
 hash = "95eff954328b6ce0d67ab9a0f6e6893f89c4b7784484ea49633a5b6231d846fa"
 
